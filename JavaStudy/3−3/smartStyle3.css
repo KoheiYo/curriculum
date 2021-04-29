@@ -1,0 +1,41 @@
+@media screen and (max-width: 479px) {
+    .wrapper {
+        width: 200px;
+    }
+
+    .header {
+        width: 200px;
+        height: 200px;
+        background-color: #141f40;
+    }
+
+    .header_menu {
+        background-color: white;
+        height: 160px;
+        width: 60px;
+        clear: right;
+        margin-right: 70px;
+    }
+
+    .menu {
+        margin-left: 10px;
+    }
+
+    .left {
+        width: 200px;
+        height: 100px;
+    }
+
+    .right {
+        width: 200px;
+        height: 210px;
+    }
+
+    .contents {
+        padding: 20px 0 0 30px;
+    }
+
+    .footer {
+        width: 200px;
+    }
+}
